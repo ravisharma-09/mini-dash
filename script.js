@@ -82,6 +82,14 @@ const projects = [
     live: "https://stone-paper-nine.vercel.app/",
     code: "https://github.com/ravisharma-09/Stone-Paper",
   },
+  {
+    name: "Password Generator",
+    emoji: "🔐",
+    tag: "tool",
+    desc: "Generate strong, random passwords instantly. Pick your length, mix in symbols, numbers, and cases — copy and go.",
+    live: "https://password-genrator-murex.vercel.app/",
+    code: "https://github.com/ravisharma-09/password-genrator",
+  },
 ];
 
 // ============================================
